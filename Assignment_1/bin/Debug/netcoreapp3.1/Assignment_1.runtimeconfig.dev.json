@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\pente\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pente\\.nuget\\packages"
+    ]
+  }
+}
